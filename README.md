@@ -235,3 +235,10 @@ As configurações para o **WSL** devem ser executadas após configurar o **Wind
 5. Salve o arquivo e feche o editor de texto.
 
 6. Reinicie o terminal para aplicar as alterações.
+
+## Referências
+
+- [Oh My Posh](https://ohmyposh.dev/docs/)
+- [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
+- [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/)
+- [Windows Terminal - Customizing the Terminal](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-settings)
