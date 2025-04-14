@@ -1,0 +1,27 @@
+{
+  "schemes": [
+    {
+      "background": "#101010",
+      "black": "#101010",
+      "blue": "#0070C0",
+      "brightBlack": "#404040",
+      "brightBlue": "#61CBF4",
+      "brightCyan": "#8EE4F0",
+      "brightGreen": "#75B070",
+      "brightPurple": "#7B63A0",
+      "brightRed": "#F86071",
+      "brightWhite": "#E3E3E3",
+      "brightYellow": "#FFCE66",
+      "cursorColor": "#52F568",
+      "cyan": "#00B0F0",
+      "foreground": "#F0F0F0",
+      "green": "#00B050",
+      "name": "Custom color",
+      "purple": "#7030A0",
+      "red": "#F80A2F",
+      "selectionBackground": "#52F568",
+      "white": "#F1F1F1",
+      "yellow": "#FFC000"
+    }
+  ]
+}

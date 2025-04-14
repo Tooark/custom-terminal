@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "defaults": {
+      "backgroundImage": "desktopWallpaper",
+      "backgroundImageOpacity": 0.2,
+      "colorScheme": "Custom color",
+      "font": {
+        "face": "FiraCode Nerd Font Mono"
+      },
+      "padding": "8"
+    }
+  }
+}
